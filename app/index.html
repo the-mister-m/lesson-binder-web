@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Teacher Materials Packager</title>
+<link rel="icon" type="image/png" href="assets/Colonie-Wolfpack_Forward_Wolf_FullColor.png">
+<link rel="stylesheet" href="app.css">
+<script src="vendor/jszip.min.js"></script>
+<script src="vendor/mammoth.browser.min.js"></script>
+<script src="vendor/xlsx.full.min.js"></script>
+<script src="vendor/tesseract.min.js"></script>
+</head>
+<body>
+<header class="bar">
+  <img class="wolf" src="assets/Colonie-SideFacing_Wolf_FullColor.png" alt="">
+  <div>
+    <div class="title">Teacher Materials Packager</div>
+    <div class="sub">WEB LITE</div>
+  </div>
+</header>
+<nav class="tabs" id="tabs">
+  <button data-tab="start">Start</button>
+  <button data-tab="files">Files</button>
+  <button data-tab="taxonomies">Taxonomies</button>
+  <button data-tab="nodes">Nodes</button>
+  <button data-tab="edges">Edges</button>
+  <button data-tab="export">Export</button>
+</nav>
+<main id="view"></main>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

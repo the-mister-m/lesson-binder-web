@@ -1,0 +1,23 @@
+<svg width="640" height="310" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="639" height="309" fill="#FFFFFF" stroke="#6B1D3A"/>
+<rect x="24" y="18" width="282" height="100" rx="4" fill="#FFFFFF" stroke="#6B1D3A" stroke-dasharray="5"/>
+<text x="110" y="72" font-size="13" fill="#6B1D3A">Drop edges file</text>
+<rect x="320" y="18" width="296" height="100" rx="4" fill="#FFFFFF" stroke="#CCCCCC"/>
+<text x="334" y="40" font-size="13" fill="#888888">Paste edges here</text>
+<rect x="530" y="84" width="76" height="26" rx="4" fill="#6B1D3A"/>
+<text x="546" y="102" font-size="12" font-weight="700" fill="#FFFFFF">Submit</text>
+<rect x="24" y="134" width="390" height="160" fill="#F4F4F4"/>
+<text x="38" y="158" font-size="10" letter-spacing="2" fill="#888888">CHECK RESULTS</text>
+<text x="38" y="182" font-size="13" fill="#333333">41 lines read</text>
+<rect x="38" y="196" width="4" height="40" fill="#FBAE2D"/>
+<text x="50" y="212" font-size="13" font-weight="700" fill="#6B1D3A">Unknown references</text>
+<text x="50" y="230" font-size="12" fill="#333333">Line 7</text>
+<rect x="38" y="246" width="4" height="40" fill="#FBAE2D"/>
+<text x="50" y="262" font-size="13" font-weight="700" fill="#6B1D3A">Could not read</text>
+<text x="50" y="280" font-size="12" fill="#333333">Line 12</text>
+<rect x="428" y="134" width="188" height="160" fill="#F4F4F4"/>
+<text x="442" y="158" font-size="10" letter-spacing="2" fill="#888888">VERSIONS</text>
+<text x="442" y="184" font-size="13" font-weight="700" fill="#6B1D3A">Version 3 · current</text>
+<text x="442" y="210" font-size="13" fill="#333333">Version 2</text><text x="540" y="210" font-size="12" fill="#6B1D3A">Roll back</text>
+<text x="442" y="236" font-size="13" fill="#333333">Version 1</text><text x="540" y="236" font-size="12" fill="#6B1D3A">Roll back</text>
+</svg>

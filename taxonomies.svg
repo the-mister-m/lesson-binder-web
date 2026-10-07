@@ -1,0 +1,17 @@
+<svg width="640" height="250" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="639" height="249" fill="#FFFFFF" stroke="#6B1D3A"/>
+<rect x="24" y="18" width="170" height="214" fill="#F4F4F4"/>
+<rect x="24" y="18" width="4" height="30" fill="#FBAE2D"/>
+<text x="38" y="38" font-size="13" font-weight="700" fill="#6B1D3A">Taxonomy A</text>
+<text x="38" y="66" font-size="13" fill="#333333">Taxonomy B</text>
+<text x="38" y="94" font-size="13" fill="#333333">Taxonomy C</text>
+<text x="38" y="218" font-size="13" fill="#6B1D3A">+ Add taxonomy</text>
+<text x="214" y="34" font-size="10" letter-spacing="2" fill="#888888">NAME</text>
+<rect x="214" y="40" width="402" height="28" rx="4" fill="#FFFFFF" stroke="#CCCCCC"/>
+<text x="214" y="92" font-size="10" letter-spacing="2" fill="#888888">DESCRIPTION</text>
+<rect x="214" y="98" width="402" height="56" rx="4" fill="#FFFFFF" stroke="#CCCCCC"/>
+<text x="214" y="178" font-size="10" letter-spacing="2" fill="#888888">LABELS</text>
+<rect x="214" y="186" width="64" height="24" rx="12" fill="#6B1D3A"/><text x="230" y="202" font-size="12" fill="#FFFFFF">label</text>
+<rect x="286" y="186" width="64" height="24" rx="12" fill="#6B1D3A"/><text x="302" y="202" font-size="12" fill="#FFFFFF">label</text>
+<rect x="358" y="186" width="34" height="24" rx="12" fill="#FFFFFF" stroke="#6B1D3A"/><text x="370" y="202" font-size="13" fill="#6B1D3A">+</text>
+</svg>
